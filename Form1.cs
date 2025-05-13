@@ -24,7 +24,7 @@ namespace windowsdotnetappdemo
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "test,successfull.You are welcome.";
+            label1.Text = "test,successfull";
         }
     }
 }
